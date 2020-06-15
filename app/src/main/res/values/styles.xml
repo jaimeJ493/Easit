@@ -1,0 +1,68 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- Light/Day mode application theme. -->
+    <style name="lightTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">#EBEBEBEB</item>
+        <item name="colorPrimaryDark">#E0E0E0</item>
+        <item name="colorAccent">#1A7AD2</item>
+        <item name="backgroundcolor">#F5F5F5</item>
+        <item name="cardbackground">#E0E0E0</item>
+        <item name="text">#000000</item>
+        <item name="buscador">@color/blanco</item>
+        <item name="button">#707070</item>
+        <item name="simbolo">@color/negro</item>
+        <item name="barraNav">#2196f3</item>
+        <item name="icon">@drawable/buscar</item>
+        <item name="iconhome">@drawable/homelight</item>
+        <item name="iconeasit">@drawable/logoeasiticonoletrasblanco</item>
+
+
+    </style>
+
+    <!-- Dark/Day mode application theme. -->
+    <style name="darkTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">#202020</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#F3CA40</item>
+        <item name="backgroundcolor">#181818</item>
+        <item name="cardbackground">#202020</item>
+        <item name="text">#ffffff</item>
+        <item name="buscador">@color/cardviews_dark</item>
+        <item name="button">@color/blanco</item>
+        <item name="simbolo">@color/cardviews_dark</item>
+        <item name="barraNav">#2196f3</item>
+        <item name="icon">@drawable/buscardark</item>
+        <item name="iconhome">@drawable/housedark</item>
+        <item name="iconeasit">@drawable/logoeasiticonoletrasnegro</item>
+
+
+    </style>
+
+    <style name="SCBSwitch" parent="Theme.AppCompat.Light">
+        <!-- active thumb & track color (30% transparency) -->
+        <item name="colorControlActivated">#F3CA40</item>
+
+        <!-- inactive thumb color -->
+        <item name="colorSwitchThumbNormal">#f1f1f1
+        </item>
+
+        <!-- inactive track color (30% transparency) -->
+        <item name="android:colorForeground">#42221f1f
+        </item>
+    </style>
+
+
+    <style name="CustomAlertDialog">
+        <item name="android:alertDialogTheme">@style/CustomAlertDialogTheme</item>
+    </style>
+
+    <style name="CustomAlertDialogTheme">
+        <item name="android:textColorAlertDialogListItem">@color/some_color</item>
+    </style>
+
+</resources>

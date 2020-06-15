@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">""</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="descarga"><u>Descarga ya!</u></string>
+
+
+    <string name="F">Español</string>
+    <string name="idioma">Español</string>
+    <string name="etiquetaTopApps">Más populares:</string>
+    <string name="menuCategorias">Categorias</string>
+    <string name="menuForo">Foro</string>
+    <string name="menuModo">Modo oscuro</string>
+    <string name="menuCompartir">Compartir</string>
+    <string name="menuQuienes">¿Quienes somos?</string>
+
+    <string name = "whatsapp1">Chatear</string>
+    <string name = "whatsapp2">Enviar archivos</string>
+    <string name = "whatsapp3">Crear un grupo</string>
+    <string name = "whatsapp4">Chatear en grupo</string>
+    <string name = "whatsapp5">Añadir amigos</string>
+    <string name = "whatsapp6">Configuración</string>
+
+    <string name="zoom1">Instalar y registrarse</string>
+
+    <string name="zoom2">Empezar una reunión</string>
+
+    <string name="zoom3">Programar una reunión</string>
+
+    <string name="zoom4">Unirse a una reunión</string>
+
+    <string name="zoom5">Invitar participantes</string>
+    <string name="zoom6">Compartir pantalla</string>
+
+    <string name="telegram1">Instalar Telegram</string>
+    <string name="telegram2">Añadir contactos</string>
+    <string name="telegram3">Enviar y recibir mensajes</string>
+    <string name="telegram4">Llamadas de voz</string>
+    <string name="telegram5">Canales y grupos</string>
+
+    <string name="skype1">Descargar e instalar Skype</string>
+    <string name="skype2">Iniciar un chat</string>
+    <string name="skype3">Crear un grupo</string>
+    <string name="skype4">Llamar a un contacto o grupo</string>
+    <string name="skype5">Agregar dinero a tu cuenta</string>
+
+    <string name="meet1">Abrir Google Meet</string>
+    <string name="meet2">Unirse a una reunión</string>
+    <string name="meet3">Navegar por la sesión</string>
+    <string name="hbo1">Obtener HBO Now</string>
+    <string name="hbo2">Obtener HBO por internet</string>
+    <string name="hbo3">HBO Streaming</string>
+
+    <string name="netflix1">Registrarse</string>
+    <string name="netflix2">Agregar un plan</string>
+    <string name="youtube1">Ver vídeos</string>
+
+    <string name="youtube2">Subir un vídeo</string>
+    <string name="youtube3">Crear un canal</string>
+    <string name="twitch1">Introducción</string>
+
+
+    <string name="twitch2">Streaming</string>
+    <string name="amazonprimevideo1">Introducción</string>
+
+    <string name="spotify1">Escuchar música</string>
+    <string name="spotify2">Usar tu biblioteca</string>
+    <string name="spotify3">Crear listas</string>
+
+    <string name="spotify4">Escuchar podcast</string>
+    <string name="spotify5">Actualizar a Premium</string>
+
+    <string name="spotify6">Ahorro de datos</string>
+
+    <string name="spotify7">Modo sin conexión</string>
+    <string name="amazonmusic1">Escuchar en móviles</string>
+    <string name="amazonmusic2">Escuchar en Windows</string>
+    <string name="amazonmusic3">Escuchar en Mac</string>
+    <string name="amazonmusic4">Escuchar en un Navegador</string>
+    <string name="shazam1">Instalar</string>
+    <string name="shazam2">Sincronizar</string>
+
+    <string name="ytmusic1">Configurar</string>
+    <string name="ytmusic2">Encontrar música</string>
+    <string name="ytmusic3">Crear una radio</string>
+    <string name="ytmusic4">Biblioteca</string>
+
+    <string name="pandora1">Introducción</string>
+    <string name="waze1">Obtener</string>
+
+    <string name="waze2">Usar tablero</string>
+    <string name="uber1">Instalar en iPhone</string>
+    <string name="uber2">Instalar en Android</string>
+    <string name="uber3">Pedir un Uber</string>
+
+    <string name="linkedin1">Crear perfil</string>
+
+    <string name="linkedin2">Redes y contactos</string>
+    <string name="linkedin3">Buscar trabajo</string>
+
+    <string name="insta1">Instalar</string>
+    <string name="insta2">Usar pestañas</string>
+    <string name="insta3">Subir fotos</string>
+
+    <string name="lyft1">Registrar</string>
+    <string name="lyft2">Método de pago</string>
+    <string name="lyft3">Solicitar un viaje</string>
+
+
+    <string name="lyft4">Pagar el viaje</string>
+    <string name="twitter1">Registrar</string>
+    <string name="twitter2">Configurar perfil</string>
+
+
+    <string name="twitter3">Seguir usuarios</string>
+    <string name="twitter4">Twittear</string>
+    <string name="twitter5">Retwittear</string>
+    <string name="twitter6">Enviar mensajes</string>
+
+
+    <string name="twitter7">Usar en móvil</string>
+    <string name="wish1">Crear una cuenta</string>
+    <string name="wish2">Hacer un pedido</string>
+    <string name="wish3">Seguimientos</string>
+    <string name="wish4">Crear listas</string>
+    <string name="wish5">Agregar a la lista</string>
+    <string name="wish6">Administrar lista</string>
+
+
+    <string name="alibaba1">Buscar productos</string>
+    <string name="alibaba2">Proveedores</string>
+    <string name="alibaba3">Transación segura</string>
+    <string name="ebay1">Encontrar artículo</string>
+    <string name="ebay2">Pujar artículo</string>
+    <string name="ebay3">Transación segura</string>
+
+
+    <string name="amazon1">Crear cuenta</string>
+    <string name="amazon2">Hacer búsquedas</string>
+    <string name="amazon3">Categorías</string>
+
+
+    <string name="amazon4">Selecciona un artículo</string>
+    <string name="amazon5">Completar pedido</string>
+    <string name="amazon6">Configurar pedido</string>
+
+
+    <string name="facebook1">Introducción</string>
+    <string name="facebook2">Añadir amigos</string>
+    <string name="facebook3">Subir publicaciones en PC</string>
+    <string name="facebook4">Subir publicaciones en móvil</string>
+    <string name="facebook5">Subir fotos y videos en PC</string>
+    <string name="facebook6">Subir fotos y videos en móvil</string>
+
+
+    <string name="maps1">Obtener direcciones</string>
+    <string name="maps2">Agregar paradas</string>
+    <string name="maps3">Opciones de ruta</string>
+    <string name="maps4">Compartir ubicaciones</string>
+    <string name="maps5">Encontrar negocios</string>
+    <string name="maps6">Cambiar tipo de mapa</string>
+
+
+    <string name="maps7">Usar Street View</string>
+    <string-array name="desc_c">
+        <item >WhatsApp es una app de mensajería instantánea, que sirve para chatear, hacer videollamadas e interactuar con amigos y familiares.</item>
+         <item>Zoom Video Communications es una herramienta de videoconferencias.El programa Zoom no solamente ofrece llamadas a través
+        de video sino además permite escribir mensajes al mismo tiempo y compartir cualquier archivo con los demás usuarios.</item>
+        <item>Telegram es un servicio de mensajería instantáneo que se utiliza, fundamentalmente, para mantener conversaciones de persona a persona o en grupo.
+        Al igual que en WhatsApp se pueden enviar mensajes por texto, audio e incluso realizar videollamadas</item>
+        <item>Skype es una aplicación o programa que puedes instalar en tu computador,
+        ordenador o teléfono móvil para comunicarte con personas de cualquier parte del mundo por medio de llamadas, video conferencias y mensajería instantánea.</item>
+        <item>Hangouts es una aplicación de mensajería instantánea, y destaca su sistema de llamadas telefónicas y de videoconferencia.
+                Es el mayor competidor de Skype de Microsoft y además es gratis.</item>
+
+
+    </string-array>
+    <string-array name="desc_e">
+        <item>YouTube es una plataforma a través de la que reproducir vídeos, subir contenido a un canal propio e interactuar con el resto de usuarios mediante likes, comentarios o ‘compartir’</item>
+        <item>Twitch es una plataforma que ofrece un servicio de Streaming de video en vivo propiedad de Amazon, Inc., siendo una de sus principales funciones la retransmisión de videojuegos en directo.</item>
+        <item>Netflix Es un servicio de transmisión o \'streaming\' que permite ver una gran variedad de series, documentales y películas en cualquier dispositivo con acceso a internet como celulares, computadoras, tabletas o \'smart tv\' mediante el pago de una tarifa fija mensual.</item>
+        <item>HBO es una plataforma de streaming que te permite ver las series y películas exclusivas de HBO en cualquier dispositivo con internet. De esta manera, lo único que tienes que hacer es pagar una suscripción mensual para tener acceso a todo el catálogo de películas de la compañía.</item>
+    </string-array>
+<string name ="nulo2">    <item>Snapchat permite añadir contactos y enviarles mensajes en forma de fotos o vídeos de forma individual o a grupos. La principal diferencia es que tú seleccionas el tiempo que el receptor podrá ver ese mensaje (de 1 a 10 segundos) antes de que se destruya.</item>
+</string>
+
+    <string-array name="desc_s">
+        <item> Instagram es una red social y una aplicación móvil al mismo tiempo. Ésta permite a sus usuarios subir imágenes y vídeos con múltiples efectos fotográficos como filtros, marcos, colores retro, etc. para posteriormente compartir esas imágenes en la misma plataforma o en otras redes sociales.</item>
+        <item>Facebook es una red social que conecta personas con personas. Cuando abres una cuenta en Facebook, entras en una red social que conecta a amigos, familiares y socios de negocios.</item>
+        <item>Twitter permite enviar mensajes cortos para decirle al mundo lo que estás haciendo, pensando, leyendo, o cualquier otra cosa que quieras comunicar. Puedes también incluir y enviar fotos, vídeos y cualquier enlace a un post de un blog, una página web, etc. El servicio te permite seguir y ser seguido por otros usuarios.</item>
+        <item>LinkedIn es una red social profesional, es decir, está orientada más a relaciones comerciales y profesionales que a relaciones personales y por tanto en esta red social lo que encontrarás son empresas y profesionales que buscan promocionarse, hacer networking y negocio</item>
+
+    </string-array>
+    <string name="nulo3">        <item>Pandora es una aplicación músical, cuyo propósito es capturar la esencia de la música en su nivel más fundamental. Puede ofrecer emisoras de radio personalizadas a través de Internet: el usuario sugiere el nombre de una canción y la página genera una estación de radio con una lista de música parecida a la que se solicitó en la consulta</item>
+</string>
+    <string-array name="desc_m">
+        <item>Spotify es un servicio de música, podcasts y vídeos digitales en streaming que te da acceso a millones de canciones y otros contenidos de artistas de todo el mundo.</item>
+        <item>Amazon Prime Music es el servicio de música de Amazon, con la suscripción a Amazon Prime se permite el acceso a más de 2 millones de canciones y más de mil playlists Emisoras programadas por expertos en música de Amazon sin tener que pagar coste adicional alguno.</item>
+        <item>YouTube Music es un servicio de transmisión de música desarrollado por YouTube; proporciona una interfaz personalizada para el servicio orientado a la transmisión de música, lo que permite a los usuarios explorar videos musicales en YouTube según los géneros, las listas de reproducción y las recomendaciones.</item>
+        <item>Shazam es un servicio musical disponible para el móvil que tiene una funcionalidad muy concreta, la de reconocer canciones con solo escucharla unos segundos, es decir, Shazam es capaz de saber que canción está sonando en cualquier momento.</item>
+    </string-array>
+    <string-array name="desc_com">
+        <item>Más de 200 millones de personas usan Wish para conseguir productos de tendencia a un 50-80% menos de lo que pagarías en tu centro comercial. Únete y consigue los mejores productos a precios increíbles, entregados directamente en tu puerta.</item>
+        <item>Amazon es una de las mayores compañías de comercio electónico del mundo, donde permite a los usuarios buscar, comparar precios, leer opiniones y realizar pedidos. Tiene su propia aplicación que permite al cliente escanear códigos de barras para conseguir información inmediata sobre el precio y la disponibilidad de los productos.</item>
+        <item>Ebay es un sitio destinado a la subasta y comercio electrónico de productos a través de Internet. El vendedor pone un precio de salida y una duración determinada para el anuncio y mientras dure ese período de tiempo, los compradores pujarán por ella.</item>
+        <item>Alibaba es un consorcio privado chino que posee 18 subsidiarias con sede en Hangzhou dedicado al comercio electrónico en Internet, incluyendo portales de ventas business-to-business, de venta al por menor, y de venta entre consumidores; también ofrece servicios de pago en línea.</item>
+
+    </string-array>
+    <string-array name="desc_n">
+        <item>Waze es una app de navegación perfecta para el automóvil, la cual te informa sobre tráfico, obras, policia, accidentes y mucho más en tiempo real. Si el tráfico es malo en tu ruta, Waze la cambiará para ahorrarte tiempo.</item>
+        <item>Con Uber, tienes tu destino al alcance de la mano. Solo tienes que abrir la app, indicar dónde quieres ir y un conductor que esté cerca te llevará hasta allí de forma segura. También puedes alquilar patinetes y bicis JUMP. Llega a tu destino prácticamente desde cualquier lugar.</item>
+        <item>¿Necesitas que te lleven a un lugar? Usa Lyft para llegar a tu destino de manera económica en solo minutos. En lugar de esperar un taxi o el autobús, pide que te recoja un coche con tan solo tocar un botón. Un conductor amigable cerca de ti vendrá a buscarte y te llevará a tu destino de inmediato. Disfruta hoy mismo de un viaje cálido, económico y digno de recordar.</item>
+        <item>Navega por el mundo de manera más fácil y rápida con Google Maps. Hay mapas de más de 220 países y territorios con millones de empresas y lugares señalados. Consigue información sobre el tráfico y el transporte público y navega con GPS en tiempo real.</item>
+
+    </string-array>
+
+
+    <string name = "quienessomos">
+Somos un grupo de tres estudiantes de DAM de la Universidad Europea de Madrid, en Villaviciosa de Odón. eas!t está formado por Jaime Campos, Jose Luis García y Javier Muñoz.
+Para cualquier duda o sugerencia de mejora en eas!t, escriba un correo electrónico a info.easit.uem@gmail.com
+    </string>
+
+
+    <string name="eligeidoma">
+        Elige un idoma
+    </string>
+
+    <string name="siguenos">Siguenos:</string>
+
+
+    <string name ="nulo">Siendo miembro de Amazon Prime tienes acceso gratis a Prime Video. Se trata del servicio de streaming de series y películas de Amazon, que cuenta con su propio contenido exclusivo de Amazon Originals así como un interesante catálogo de series y películas. Es como Netflix, pero te viene incluido en tu suscripción.</string>
+</resources>
+

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cd_comu"
+        android:layout_width="170dp"
+        android:layout_height="78dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="34dp"
+        app:cardBackgroundColor="?cardbackground"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/Ly_comu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/degradadocomunicacion"
+            android:orientation="vertical"/>
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cd_musica"
+        android:layout_width="170dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        app:cardBackgroundColor="?cardbackground"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/Ly_musica"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/musica_cardview"
+            android:orientation="vertical"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cd_navegacion"
+        android:layout_width="170dp"
+        android:layout_height="78dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="34dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="20dp"
+        app:cardBackgroundColor="?cardbackground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cd_comu">
+
+
+        <LinearLayout
+            android:id="@+id/Ly_navegacion"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/degradadonavegacion"
+            android:orientation="vertical"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cd_entre"
+        android:layout_width="170dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        app:cardBackgroundColor="?cardbackground"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cd_musica">
+
+        <LinearLayout
+            android:id="@+id/Ly_entre"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/degradadoentretenimiento"
+            android:orientation="vertical"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cd_social"
+        android:layout_width="170dp"
+        android:layout_height="78dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="34dp"
+        app:cardBackgroundColor="?cardbackground"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cd_navegacion">
+
+
+        <LinearLayout
+            android:id="@+id/Ly_social"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/degradadosocial"
+            android:orientation="vertical"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cd_compras"
+        android:layout_width="170dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        app:cardBackgroundColor="?cardbackground"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cd_entre">
+
+        <LinearLayout
+            android:id="@+id/Ly_compras"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/degradadocompras"
+            android:orientation="vertical" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerviewTopApps"
+        android:layout_width="0dp"
+        android:layout_height="140dp"
+        android:background="?backgroundcolor"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewMaspopulares"
+        app:layout_constraintVertical_bias="0.286" />
+
+    <TextView
+        android:id="@+id/textViewMaspopulares"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginEnd="263dp"
+        android:layout_marginRight="263dp"
+        android:text="@string/etiquetaTopApps"
+        android:textColor="?button"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.021"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cd_social" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

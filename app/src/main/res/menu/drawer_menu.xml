@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    >
+
+    <item android:title="title"
+
+        >
+        <group android:checkableBehavior="single">
+            <item
+
+                android:id="@+id/nav_menu"
+                android:icon="@drawable/categorias"
+                android:title="@string/menuCategorias"/>
+            <item
+
+                android:id="@+id/nav_Bot"
+                android:icon="@drawable/bot"
+                android:title="ChatBot" />
+            <item
+                android:id="@+id/nav_Foro"
+                android:icon="@drawable/foro"
+                android:title="@string/menuForo"/>
+        </group>
+
+    </item>
+
+    <item
+
+        android:title="Ajustes"
+        android:id="@+id/ajustes"
+        >
+
+        <menu>
+
+
+
+            <item
+                android:id="@+id/dark_mode_switch"
+                android:icon="@drawable/dark"
+                android:title="@string/menuModo"
+                app:actionLayout="@layout/switch_item"
+                app:showAsAction="always" />
+
+            <item
+                android:id="@+id/nav_lang"
+                android:icon="@drawable/traducir"
+                android:title="@string/idioma">
+
+            </item>
+
+        </menu>
+    </item>
+    <item android:title="Saber mas"
+        android:id="@+id/sabermas"
+       >
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="@string/menuCompartir" />
+            <item
+                android:id="@+id/nav_somos"
+                android:icon="@drawable/equipo"
+                android:title="@string/menuQuienes">
+
+
+            </item>
+
+
+        </menu>
+    </item>
+
+
+</menu>

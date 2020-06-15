@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">""</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="descarga"><u>Descarga ya!</u></string>
+
+
+    <string name="F">Español</string>
+    <string name="idioma">English</string>
+    <string name="etiquetaTopApps">Trending Apps:</string>
+    <string name="menuCategorias">Categories</string>
+    <string name="menuForo">Forum</string>
+    <string name="menuModo">Dark theme</string>
+    <string name="menuCompartir">Share</string>
+    <string name="menuQuienes">About us</string>
+
+
+    <string name="zoom1">Install and register</string>
+
+    <string name="zoom2">Start a meeting</string>
+
+    <string name="zoom3">Program a meeting</string>
+
+    <string name="zoom4">Join a meeting</string>
+
+    <string name="zoom5">Invite participants</string>
+
+    <string name="zoom6">Share screen</string>
+
+    <string name = "whatsapp1">Chatting</string>
+    <string name = "whatsapp2">Sending Attachments</string>
+    <string name = "whatsapp3">Create a group</string>
+    <string name = "whatsapp4">Chat in group</string>
+    <string name = "whatsapp5">Add friends</string>
+    <string name = "whatsapp6">Configuration</string>
+
+    <string name="telegram1">Install Telegram</string>
+    <string name="telegram2">Add contacts</string>
+    <string name="telegram3">Send and receive messages</string>
+    <string name="telegram4">Voice calls</string>
+    <string name="telegram5">Channels and groups</string>
+    <string name="skype1">Download and install Skype</string>
+
+    <string name="skype2">Start a chat</string>
+    <string name="skype3">Create a group</string>
+    <string name="skype4">Call a contact or group</string>
+    <string name="skype5">Add money to your account</string>
+    <string name="meet1">Open Google Meet</string>
+
+    <string name="meet2">Join a meeting</string>
+    <string name="meet3">Browse session</string>
+    <string name="hbo1">Obtain HBO Now</string>
+    <string name="hbo2">Obtain HBO by internet</string>
+    <string name="hbo3">HBO Streaming</string>
+
+    <string name="netflix1">Register</string>
+    <string name="netflix2">Add a plan</string>
+    <string name="youtube1">Watch videos</string>
+
+    <string name="youtube2">Upload a video</string>
+    <string name="youtube3">Create a channel</string>
+    <string name="twitch1">Introduction</string>
+
+    <string name="twitch2">Streaming</string>
+    <string name="amazonprimevideo1">Introduction</string>
+
+    <string name="spotify1">Listen to music</string>
+    <string name="spotify2">Use your library</string>
+    <string name="spotify3">Create lists</string>
+
+    <string name="spotify4">Listen to podcast</string>
+    <string name="spotify5">Upgrade to Premium</string>
+
+    <string name="spotify6">Data saving</string>
+
+
+    <string name="spotify7">Offline mode</string>
+    <string name="amazonmusic1">listen on mobile</string>
+    <string name="amazonmusic2">listen on Windows</string>
+    <string name="amazonmusic3">listen on Mac</string>
+    <string name="amazonmusic4">listen in a browser</string>
+    <string name="shazam1">Install</string>
+    <string name="shazam2">Sync up</string>
+
+    <string name="ytmusic1">Set Up</string>
+    <string name="ytmusic2">Find music</string>
+    <string name="ytmusic3">Create a radio</string>
+    <string name="ytmusic4">Library</string>
+
+    <string name="pandora1">Introduction</string>
+    <string name="waze1">Obtain</string>
+
+    <string name="waze2">Use board</string>
+    <string name="uber1">Install on iPhone</string>
+    <string name="uber2">Install on Android</string>
+    <string name="uber3">Ask for an Uber</string>
+
+    <string name="maps1">Get directions</string>
+
+    <string name="maps2">Add stops</string>
+    <string name="maps3">Route options</string>
+
+    <string name="maps4">Sharing locations</string>
+    <string name="maps5">Find business</string>
+    <string name="maps6">Change map type</string>
+
+    <string name="maps7">Use Street View</string>
+    <string name="facebook1">Introduction</string>
+    <string name="facebook2">Add friends</string>
+    <string name="facebook3">Upload publications on pc</string>
+    <string name="facebook4">Upload publications on mobile</string>
+    <string name="facebook5">Upload photos and videos on PC</string>
+    <string name="facebook6">upload photos and videos on Mobile</string>
+
+
+    <string name="amazon1">Create account</string>
+    <string name="amazon2">Search</string>
+    <string name="amazon3">Categories</string>
+    <string name="amazon4">Select an item</string>
+    <string name="amazon5">Complete order</string>
+    <string name="amazon6">Configure order</string>
+
+    <string name="ebay1">Find article</string>
+    <string name="ebay2">Bid article</string>
+    <string name="ebay3">Secure transaction</string>
+    <string name="alibaba1">Search products</string>
+    <string name="alibaba2">Providers</string>
+    <string name="alibaba3">Secure transaction</string>
+
+    <string name="wish1">Create an account</string>
+    <string name="wish2">Make an order</string>
+    <string name="wish3">Follow orders</string>
+
+    <string name="wish4">Create lists</string>
+    <string name="wish5">Add to the list</string>
+    <string name="wish6">Manage list</string>
+
+    <string name="twitter1">Register</string>
+    <string name="twitter2">Configure profile</string>
+    <string name="twitter3">Follow users</string>
+    <string name="twitter4">Tweet</string>
+    <string name="twitter5">Retweet</string>
+    <string name="twitter6">Send messages</string>
+
+    <string name="twitter7">Use on mobile</string>
+    <string name="lyft1">Register</string>
+    <string name="lyft2">Payment method</string>
+    <string name="lyft3">Request a trip</string>
+    <string name="lyft4">Pay the trip</string>
+    <string name="insta1">Install</string>
+    <string name="insta2">Use tabs</string>
+
+    <string name="insta3">Upload photos</string>
+    <string name="linkedin1">Create profile</string>
+    <string name="linkedin2">Network and Contacts</string>
+    <string name="linkedin3">Search for a job</string>
+
+    <string name="quienessomos">
+We are a group of three DAM students from the European University of Madrid, in Villaviciosa de Odón. eas! t is made up of Jaime Campos, Jose Luis García and Javier Muñoz.
+For any questions or suggestions for improvement in eas! T, write an email to info.easit.uem@gmail.com
+    </string>
+    <string-array name="desc_c">
+        <item >WhatsApp is an instant messaging app, which is used to chat, make video calls and interact with friends and family.</item>
+        <item>Zoom Video Communications is a video conferencing tool. The Zoom program does not only offer calls through video but also allows you to write messages at the same time and share any file with other users.</item>
+        <item>Telegram is an instant messaging service that is mainly used to carry on conversations person to person or group. As in WhatsApp, you can send messages by text, audio and even make video calls</item>
+        <item>Skype is an application or program that you can install on your computer, computer or mobile phone to communicate with people from anywhere in the world through calls, video conferences and instant messaging.</item>
+        <item>Hangouts is an instant messaging application, and it highlights its video conferencing and phone calls system.It is the largest competitor to Microsofts Skype and it is also free.</item>
+
+    </string-array>
+    <string-array name="desc_e">
+
+        <item>YouTube is a platform through which to play videos, upload content to their own channel and interact with other users through likes, comments or ‘share’</item>
+        <item>Twitch is a platform that offers a Live Video Streaming service owned by Amazon, Inc., one of its main functions being the broadcasting of live video games.</item>
+        <item>Netflix It is a transmission or \'streaming\' service that allows you to watch a wide variety of series, documentaries and movies on any device with internet access such as cell phones, computers, tablets or \'smart tv\' by paying a fixed monthly fee.</item>
+        <item>HBO is a streaming platform that allows you to watch exclusive HBO series and movies on any internet device. In this way, all you have to do is pay a monthly subscription to have access to the company\'s entire movie catalog.</item>
+    </string-array>
+
+    <string name ="nulo2">        <item>"Snapchat allows you to add contacts and send them messages in the form of photos or videos individually or in groups. The main difference is that you select the time that the receiver will be able to see that message (from 1 to 10 seconds) before it is destroyed. "</item>
+</string>
+
+    <string-array name="desc_s">
+        <item>Instagram is a social network and a mobile application at the same time. This allows its users to upload images and videos with multiple photographic effects such as filters, frames, retro colors, etc. to later share those images on the same platform or on other social networks.</item>
+        <item>"Facebook is a social network that connects people with people. When you open a Facebook account, you enter a social network that connects friends, family and business partners. "</item>
+        <item>"Twitter allows you to send short messages to tell the world what you are doing, thinking, reading, or anything else you want to communicate. You can also include and send photos, videos and any link to a blog post, a web page, etc. The service allows you to follow and be followed by other users. "</item>
+        <item>"LinkedIn is a professional social network, that is, it is oriented more to commercial and professional relationships than to personal relationships and therefore in this social network what you will find are companies and professionals who seek to promote themselves, network and do business "</item>
+    </string-array>
+
+    <string name="nulo3"><item>"Pandora is a musical application, whose purpose is to capture the essence of music at its most fundamental level. You can offer personalized radio stations over the Internet: the user suggests the name of a song and the page generates a radio station with a list of music similar to the one requested in the query "</item></string>
+    <string-array name="desc_m">
+        <item>"Spotify is a streaming digital music, podcast and video service that gives you access to millions of songs and other content from artists around the world. "</item>
+        <item>"Amazon Prime Music is Amazon's music service, with the subscription to Amazon Prime you can access more than 2 million songs and more than a thousand radio playlists programmed by Amazon's music experts without paying any additional cost. "</item>
+        <item>"YouTube Music is a music streaming service developed by YouTube; provides a custom interface for the music streaming oriented service, allowing users to browse music videos on YouTube based on genres, playlists, and recommendations. "</item>
+        <item>"Shazam is a music service available for the mobile that has a very specific functionality, that of recognizing songs just by listening to it for a few seconds, that is, Shazam is able to know what song is playing at any time. "</item>
+
+
+    </string-array>
+    <string-array name="desc_com">
+        <item>"More than 200 million people use Wish to get trend products 50-80% less than what you would pay at your mall. Join and get the best products at incredible prices, delivered directly to your door. "</item>
+        <item>"Amazon is one of the largest electronic commerce companies in the world, where it allows users to search, compare prices, read reviews and place orders. It has its own application that allows the customer to scan barcodes to get immediate information on the price and availability of products. "</item>
+        <item>"Ebay is a site for the auction and electronic commerce of products through the Internet. The seller sets a starting price and a specific duration for the ad and for the duration of that period, buyers will bid on it. "</item>
+        <item>"Alibaba is a Chinese private consortium that has 18 Hangzhou based subsidiaries dedicated to Internet e commerce, including business to business, retail, and consumer to consumer sales portals; It also offers online payment services. "</item>
+
+    </string-array>
+
+    <string-array name="desc_n">
+        <item>"Waze is a perfect navigation app for the car, which informs you about traffic, construction, police, accidents and much more in real time. If traffic is bad on your route, Waze will change it to save you time. "</item>
+        <item>"With Uber, you have your destination at your fingertips. Just open the app, indicate where you want to go and a nearby driver will take you there safely. You can also rent JUMP scooters and bikes. Reach your destination from virtually anywhere. "</item>
+        <item>"Do you need to be taken to a place? Use Lyft to reach your destination economically in just minutes. Instead of waiting for a taxi or the bus, ask for a car to pick you up at the touch of a button. A friendly driver near you will come looking for you and take you to your destination immediately. Enjoy a warm, affordable and memorable trip today. "</item>
+        <item>"Navigate the world easier and faster with Google Maps. There are maps of more than 220 countries and territories with millions of companies and places indicated. Get information about traffic and public transport and navigate with GPS in real time. "</item>
+
+    </string-array>
+
+    <string name="eligeidoma">
+        Choose your language
+    </string>
+
+    <string name="siguenos">Follow us:</string>
+    <string name="nulo">        <item>Being a member of Amazon Prime you have free access to Prime Video. It is the streaming service for series and movies from Amazon, which has its own exclusive content from Amazon Originals as well as an interesting catalog of series and movies. It\'s like Netflix, but it is included in your subscription.</item>
+</string>
+</resources>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4D7298</color>
+    <color name="colorPrimaryLight">#5C80A2</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#F3CA40</color>
+
+
+    <!-- Light/Day mode application colors. -->
+
+    <color name = "background_light"> #ffffff</color>
+    <color name = "negro"> #000</color>
+    <color name = "blanco">#ffff</color>
+
+    <!-- Dark/Night mode application colors. -->
+
+
+    <color name="backgroud_dark">#303030</color>
+    <color name="cardviews_dark">#424242</color>
+    <color name="letras">#808080</color>
+
+
+
+    //#7B506F
+</resources>

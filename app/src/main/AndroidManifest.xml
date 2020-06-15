@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jaime.easit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/easit_foreground"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label=""
+        android:supportsRtl="true"
+        android:theme="@style/lightTheme">
+
+
+
+
+        <activity android:name=".Splash"
+            android:theme="@style/lightTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".WizardEasit"
+            android:theme="@style/lightTheme">
+        </activity>
+        <activity
+            android:name=".MenuDespegable"
+            android:theme="@style/lightTheme">
+
+        </activity>
+        <activity
+            android:name=".ListaBuscador"
+            android:parentActivityName=".MenuDespegable" />
+        <activity
+            android:name=".Secciones"
+            android:parentActivityName=".MenuDespegable" />
+
+        <activity
+            android:name=".Funcion"
+            android:parentActivityName=".Secciones" />
+
+        <activity android:name=".SlideFuncionalidades"
+            android:parentActivityName=".Funcion" />
+
+
+
+    </application>
+
+</manifest>
